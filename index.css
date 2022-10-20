@@ -3,6 +3,10 @@ p{
   color: green;
 }
 
+#font{
+  font-family: 'Fira Mono', monospace;
+}
+
 .latestArticle{
   background-color: red;
 }
