@@ -2,3 +2,12 @@ p{
   font-family: 'Fira Mono', monospace;
   color: green;
 }
+
+.latestArticle{
+  background-color: red;
+}
+
+.latestWriteUp{
+  background-color: blue;
+
+}
