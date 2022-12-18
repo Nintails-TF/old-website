@@ -1,21 +1,32 @@
-p{
+p {
   font-family: 'Fira Mono', monospace;
   color: green;
 }
 
-#font{
+#font {
   font-family: 'Fira Mono', monospace;
 }
 
-.latestArticle{
+nav{
+  font-family: 'Fira Mono', monospace;
+}
+
+/* Styling Navbar text to be white, active link is still black */
+
+.navbar-brand, .nav-link{
+  color: white;
+}
+
+.latestArticle {
   background-color: red;
 }
 
-.latestWriteUp{
+.latestWriteUp {
   background-color: blue;
 }
 
-html, body {
+html,
+body {
   height: 100%;
   margin: 0;
 }
@@ -26,8 +37,4 @@ html, body {
   /* Equal to height of footer */
   /* But also accounting for potential margin-bottom of last child */
   margin-bottom: -50px;
-}
-.footer,
-.push {
-  height: 50px;
 }
