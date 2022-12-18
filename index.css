@@ -13,9 +13,9 @@ nav{
 
 h1{
   font-family: 'Fira Mono', monospace;
+  margin-top: 10px;
 }
 /* Styling Navbar text to be white, active link is still black */
-
 .navbar-brand, .nav-link{
   color: white;
 }
@@ -27,13 +27,13 @@ footer img{
   margin-right: 10px;
 }
 
-.latestArticle {
+/* .latestArticle {
   background-color: red;
 }
 
 .latestWriteUp {
   background-color: blue;
-}
+} */
 
 html,
 body {
