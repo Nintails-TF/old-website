@@ -27,6 +27,14 @@ footer img{
   margin-right: 10px;
 }
 
+.latestArticle {
+  background-color: white;
+}
+
+.latestWriteUp {
+  background-color: white;
+} */
+
 html,
 body {
   height: 100%;
