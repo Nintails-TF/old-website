@@ -11,10 +11,20 @@ nav{
   font-family: 'Fira Mono', monospace;
 }
 
+h1{
+  font-family: 'Fira Mono', monospace;
+}
 /* Styling Navbar text to be white, active link is still black */
 
 .navbar-brand, .nav-link{
   color: white;
+}
+
+/* Styling footer images to make them smaller */
+footer img{
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
 }
 
 .latestArticle {
