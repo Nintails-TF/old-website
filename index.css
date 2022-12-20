@@ -14,7 +14,13 @@ nav{
 h1{
   font-family: 'Fira Mono', monospace;
   margin-top: 10px;
+  color: white;
 }
+
+.card-header, .card-title{
+  color: white;
+}
+
 /* Styling Navbar text to be white, active link is still black */
 .navbar-brand, .nav-link{
   color: white;
@@ -28,17 +34,22 @@ footer img{
 }
 
 .latestArticle {
-  background-color: white;
+  background-color: #252626;
 }
 
 .latestWriteUp {
-  background-color: white;
+  background-color: #252626;
 } 
 
 html,
 body {
+  background-color: #252626;
   height: 100%;
   margin: 0;
+}
+
+.card{
+  background-color: #3d3e3e;
 }
 
 .contact {
