@@ -1,4 +1,4 @@
-p {
+p{
   font-family: 'Fira Mono', monospace;
   color: green;
 }
@@ -11,7 +11,7 @@ nav{
   font-family: 'Fira Mono', monospace;
 }
 
-h1{
+h1, h2, h3{
   font-family: 'Fira Mono', monospace;
   margin-top: 10px;
   color: white;
@@ -37,6 +37,10 @@ footer img{
   background-color: #252626;
 }
 
+.articleHeader{
+  color: white;
+}
+
 .latestWriteUp {
   background-color: #252626;
 } 
@@ -46,6 +50,11 @@ body {
   background-color: #252626;
   height: 100%;
   margin: 0;
+}
+
+li{
+  font-family: 'Fira Mono', monospace;
+  color:green;
 }
 
 .card{
