@@ -26,11 +26,32 @@ h1, h2, h3{
   color: white;
 }
 
+
+#calanderArea{
+  float: right;
+}
+
+#calanderArea p{
+  color: white;
+  margin-top: 6%;
+  margin-bottom: 0px;
+}
+
+#calanderIcon{
+  width: 25px;
+  height: 25px;
+}
+
 /* Styling footer images to make them smaller */
 footer img{
   width: 25px;
   height: 25px;
   margin-right: 10px;
+}
+
+.articleImg{
+  width: 1230px;
+  height: 500px;
 }
 
 .latestArticle {
