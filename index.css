@@ -33,13 +33,15 @@ h1, h2, h3{
 
 #calanderArea p{
   color: white;
-  margin-top: 6%;
+  margin-top: 5%;
+  padding-top: 2%;
   margin-bottom: 0px;
 }
 
 #calanderIcon{
   width: 25px;
   height: 25px;
+  padding-bottom: 2%;
 }
 
 /* Styling footer images to make them smaller */
@@ -52,6 +54,9 @@ footer img{
 .articleImg{
   width: 1230px;
   height: 500px;
+}
+#articleCard{
+  margin-top: 5%;
 }
 
 .latestArticle {
